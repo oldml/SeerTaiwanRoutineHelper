@@ -111,11 +111,14 @@ python main.py
 ![设置界面](screenshots/settings.png)
 *设置中心 - 参数配置*
 
-## 📈 版本信息
-**v2.0.0** - 全新 Fluent Design 界面，重构项目架构
-
 ## 📄 许可证
 本项目采用 [MIT License](LICENSE) 开源许可证
+
+## 🙏 特别鸣谢
+感谢以下开源项目为本项目提供的技术支持和灵感：
+
+- [SeerPacket](https://github.com/iyzyi/SeerPacket) - 提供了赛尔号网络协议分析的重要参考
+- [seerNew](https://github.com/Altriazyk/seerNew) - 为项目开发提供了宝贵的技术思路
 
 ---
 
